@@ -1,2 +1,1 @@
-# BikCraft
-Web Design - Origamid
+# Web Design
